@@ -14,6 +14,7 @@ namespace Project1.Classes
         public Vector2 scale { get; protected set; }
         public float mass { get; protected set; }
         public float rotation { get; protected set; }
+        public float drag { get; protected set; }
         public transform2d(Vector2 position, Vector2 velocity, Vector2 scale, float mass, float rotation)
         {
             this.position = position;
@@ -21,6 +22,16 @@ namespace Project1.Classes
             this.scale = scale;
             this.mass = mass;
             this.rotation = rotation;
+            this.drag = 0.1f;
+        }
+        public void update()
+        {
+            Move(velocity);
+           velocity -= velocity * drag;
+            if (velocity.LengthSquared() <= 0.1f)
+            {
+                velocity = Vector2.Zero;
+            }
         }
 
         public void Move(Vector2 delta)
@@ -29,7 +40,7 @@ namespace Project1.Classes
         }
         public void Force(Vector2 direction, float amount)
         {
-            velocity += (direction * amount)/mass;
+            velocity = (direction * amount)/mass;
         }
         public void Scale(Vector2 delta)
         {

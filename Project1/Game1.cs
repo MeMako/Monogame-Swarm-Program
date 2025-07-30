@@ -25,7 +25,7 @@ namespace Project1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            _ball = new GameObject(new transform2d(Vector2.Zero, Vector2.Zero, Vector2.Zero, 0f, 0f), "ball");
+            _ball = new GameObject(new transform2d(Vector2.Zero, Vector2.Zero, Vector2.Zero, 1f, 0f), new PlayerControls(), "ball");
             base.Initialize();
 
         }
@@ -44,7 +44,8 @@ namespace Project1
                 Exit();
 
             // TODO: Add your update logic here
-            _ball.transform.Move(new Vector2(0.1f, 0));
+            //_ball.transform.Move(new Vector2(0.1f, 0));
+            _ball.update();
 
             base.Update(gameTime);
         }
