@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Project1.Classes;
 
 namespace Project1
 {
@@ -10,6 +11,8 @@ namespace Project1
 
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private GameObject _ball;
+       
 
 
         public Game1()
@@ -22,15 +25,16 @@ namespace Project1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            _ball = new GameObject(new transform2d(Vector2.Zero, Vector2.Zero, Vector2.Zero, 0f, 0f), "ball");
             base.Initialize();
+
         }
 
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            ball = Content.Load<Texture2D>("ball");
+            _ball.load(Content);
             // TODO: use this.Content to load your game content here
         }
 
@@ -40,6 +44,7 @@ namespace Project1
                 Exit();
 
             // TODO: Add your update logic here
+            _ball.transform.Move(new Vector2(0.1f, 0));
 
             base.Update(gameTime);
         }
@@ -50,7 +55,7 @@ namespace Project1
 
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
-            _spriteBatch.Draw(ball, new Vector2(Window.ClientBounds.Width / 2, Window.ClientBounds.Height/2), Color.White);
+            _spriteBatch.Draw(_ball.sprite, _ball.transform.position, Color.White);
             _spriteBatch.End();
 
             base.Draw(gameTime);

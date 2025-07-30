@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kyhan\\source\\repos\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\project1\\project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\monogame-swarm-program\\project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\project1\\project1\\content\\obj\\desktopgl\\net8.0\\content\\.mgstats||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\monogame-swarm-program\\project1\\classes\\transform2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\transform2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\monogame-swarm-program\\project1\\classes\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\content\\obj\\desktopgl\\net8.0\\content\\.mgstats||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\content\\obj\\desktopgl\\net8.0\\content\\.mgstats||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\project1\\project1\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\content\\content.mgcb||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -22,46 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\GameObject.cs",
+              "RelativeDocumentMoniker": "Project1\\Classes\\GameObject.cs",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\GameObject.cs",
+              "RelativeToolTip": "Project1\\Classes\\GameObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:44:02.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "transform2d.cs",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\transform2d.cs",
+              "RelativeDocumentMoniker": "Project1\\Classes\\transform2d.cs",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\transform2d.cs",
+              "RelativeToolTip": "Project1\\Classes\\transform2d.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:25:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".mgstats",
-              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
               "RelativeDocumentMoniker": "Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
-              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
               "RelativeToolTip": "Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-09T07:21:09.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:21:09.905Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Game1.cs",
               "RelativeDocumentMoniker": "Project1\\Game1.cs",
-              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Game1.cs",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Game1.cs",
               "RelativeToolTip": "Project1\\Game1.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDQAAAB7AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwC4AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T06:50:54.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Content.mgcb",
-              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Content\\Content.mgcb",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Content\\Content.mgcb",
               "RelativeDocumentMoniker": "Project1\\Content\\Content.mgcb",
-              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Content\\Content.mgcb",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Content\\Content.mgcb",
               "RelativeToolTip": "Project1\\Content\\Content.mgcb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-09T07:04:14.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T07:04:14.8Z"
             }
           ]
         }

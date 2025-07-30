@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Project1.csproj": {}
+    "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Project1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Project1.csproj": {
+    "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Project1.csproj",
+        "projectUniqueName": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\Project1.csproj",
+        "projectPath": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Project1.csproj",
         "packagesPath": "C:\\Users\\Kyhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kyhan\\source\\repos\\Project1\\Project1\\obj\\",
+        "outputPath": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

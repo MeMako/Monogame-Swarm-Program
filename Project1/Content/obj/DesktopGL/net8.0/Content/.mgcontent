@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Kyhan/source/repos/Project1/Project1/Content/ball.png</File>
+    <File>C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/ball.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
