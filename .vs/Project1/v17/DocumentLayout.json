@@ -3,23 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\monogame-swarm-program\\project1\\classes\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\classes\\botflock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\botflock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\classes\\botcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\botcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\classes\\transform2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\transform2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\monogame-swarm-program\\project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\monogame-swarm-program\\project1\\classes\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\classes\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|c:\\users\\kyhan\\source\\repos\\monogame-swarm-program\\project1\\classes\\movementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\classes\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\project1\\classes\\movementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8A74B09-3DEB-4908-83FC-E06B4540BFCA}|Project1\\Project1.csproj|solutionrelative:project1\\classes\\movementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,37 +50,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BotControls.cs",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\BotControls.cs",
+              "RelativeDocumentMoniker": "Project1\\Classes\\BotControls.cs",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\BotControls.cs",
+              "RelativeToolTip": "Project1\\Classes\\BotControls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:09:03.207Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\MathHelper.cs",
+              "RelativeDocumentMoniker": "Project1\\Classes\\MathHelper.cs",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\MathHelper.cs",
+              "RelativeToolTip": "Project1\\Classes\\MathHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:32:29.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BotFlock.cs",
+              "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\BotFlock.cs",
+              "RelativeDocumentMoniker": "Project1\\Classes\\BotFlock.cs",
+              "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\BotFlock.cs",
+              "RelativeToolTip": "Project1\\Classes\\BotFlock.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:20:05.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PlayerControls.cs",
               "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\PlayerControls.cs",
               "RelativeDocumentMoniker": "Project1\\Classes\\PlayerControls.cs",
               "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\PlayerControls.cs",
               "RelativeToolTip": "Project1\\Classes\\PlayerControls.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBQAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T06:40:05.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T06:40:05.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MovementControl.cs",
               "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\MovementControl.cs",
               "RelativeDocumentMoniker": "Project1\\Classes\\MovementControl.cs",
               "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\MovementControl.cs",
               "RelativeToolTip": "Project1\\Classes\\MovementControl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T06:36:13.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T06:36:13.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GameObject.cs",
               "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\GameObject.cs",
               "RelativeDocumentMoniker": "Project1\\Classes\\GameObject.cs",
@@ -76,25 +124,23 @@
               "RelativeToolTip": "Project1\\Classes\\GameObject.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T07:44:02.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T07:44:02.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "transform2d.cs",
               "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\transform2d.cs",
               "RelativeDocumentMoniker": "Project1\\Classes\\transform2d.cs",
               "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Classes\\transform2d.cs",
               "RelativeToolTip": "Project1\\Classes\\transform2d.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBgAAAAbAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T07:25:43.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T07:25:43.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": ".mgstats",
               "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
               "RelativeDocumentMoniker": "Project1\\Content\\obj\\DesktopGL\\net8.0\\Content\\.mgstats",
@@ -106,20 +152,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Game1.cs",
               "RelativeDocumentMoniker": "Project1\\Game1.cs",
               "ToolTip": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Game1.cs",
               "RelativeToolTip": "Project1\\Game1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBsAAABeAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAywEIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T06:50:54.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T06:50:54.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Content.mgcb",
               "DocumentMoniker": "C:\\Users\\Kyhan\\source\\repos\\Monogame-Swarm-Program\\Project1\\Content\\Content.mgcb",
               "RelativeDocumentMoniker": "Project1\\Content\\Content.mgcb",

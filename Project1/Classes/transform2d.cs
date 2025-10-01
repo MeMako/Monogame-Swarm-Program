@@ -40,7 +40,8 @@ namespace Project1.Classes
         }
         public void Force(Vector2 direction, float amount)
         {
-            velocity = (direction * amount)/mass;
+            direction.Normalize();
+            velocity += (direction * amount)/mass;
         }
         public void Scale(Vector2 delta)
         {

@@ -12,12 +12,17 @@ namespace Project1
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private GameObject _ball;
-       
+        BotFlock flock = new BotFlock(10);
+
 
 
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
+            _graphics.PreferredBackBufferWidth = 1280;
+            _graphics.PreferredBackBufferHeight = 1280;
+            //_graphics.IsFullScreen = true;
+            this.Window.AllowUserResizing = true;
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
         }
@@ -25,7 +30,9 @@ namespace Project1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            _ball = new GameObject(new transform2d(Vector2.Zero, Vector2.Zero, Vector2.Zero, 1f, 0f), new PlayerControls(), "ball");
+            //_ball = new GameObject(new transform2d(Vector2.Zero, Vector2.Zero, Vector2.Zero, 1f, 0f), new PlayerControls(), "ball");
+            ball = Content.Load<Texture2D>("ball");
+          
             base.Initialize();
 
         }
@@ -34,7 +41,7 @@ namespace Project1
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            _ball.load(Content);
+            //_ball.load(Content);
             // TODO: use this.Content to load your game content here
         }
 
@@ -45,8 +52,8 @@ namespace Project1
 
             // TODO: Add your update logic here
             //_ball.transform.Move(new Vector2(0.1f, 0));
-            _ball.update();
-
+            //_ball.update();
+            flock.updateflock();
             base.Update(gameTime);
         }
 
@@ -56,7 +63,11 @@ namespace Project1
 
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
-            _spriteBatch.Draw(_ball.sprite, _ball.transform.position, Color.White);
+           // _spriteBatch.Draw(_ball.sprite, _ball.transform.position, Color.White);
+           foreach(BotControls bot in flock.flock)
+            {
+                _spriteBatch.Draw(ball, bot.transform.position, Color.White);
+            }
             _spriteBatch.End();
 
             base.Draw(gameTime);
