@@ -63,3 +63,4 @@ C:\Users\Kyhan\source\repos\Monogame-Swarm-Program\Project1\bin\Debug\net8.0\run
 C:\Users\Kyhan\source\repos\Monogame-Swarm-Program\Project1\obj\Debug\net8.0\Project1.csproj.Up2Date
 C:\Users\Kyhan\source\repos\Monogame-Swarm-Program\Project1\obj\Debug\net8.0\Project1.genruntimeconfig.cache
 C:\Users\Kyhan\source\repos\Monogame-Swarm-Program\Project1\obj\Debug\net8.0\ref\Project1.dll
+C:\Users\Kyhan\source\repos\Monogame-Swarm-Program\Project1\bin\Debug\net8.0\Content\MyMenuFont.xnb

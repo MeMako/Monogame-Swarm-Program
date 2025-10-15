@@ -1,2 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/ball.png","C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.0774498
+"C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/MyMenuFont.spritefont","C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/bin/DesktopGL/Content/MyMenuFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.1854229

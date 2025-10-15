@@ -13,7 +13,7 @@ namespace Project1.Classes
         public transform2d transform;
         public BotControls()
         {
-            transform = new transform2d(new Vector2(0, 0), new Vector2(0, 0), new Vector2(1, 1), 1f, 0f);
+            transform = new transform2d(new Vector2(0, 0), new Vector2(0, 0), new Vector2(1, 1), 100f, 0f);
         }
      public float getheading()
         {

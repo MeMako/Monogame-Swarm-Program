@@ -32,9 +32,10 @@ namespace Project1.Classes
                 bot.update();
                if (MathHelper.magnitude(new Microsoft.Xna.Framework.Vector2(1280 / 2, 1280 / 2), bot.transform.position) > 5)
                 {
-                    bot.transform.Force(new Microsoft.Xna.Framework.Vector2(rand.Next(), rand.Next()), 0.45f);
+                    //bot.transform.Force(bot.transform.velocity, -0.46f);
+                    bot.transform.Force(new Microsoft.Xna.Framework.Vector2(rand.Next(), rand.Next()), 0.46f);
                 }
-               else
+               else 
                 {
                     bot.transform.Force(new Microsoft.Xna.Framework.Vector2(1280 / 2, 1280 / 2) - bot.transform.position, -0.45f);
                 }

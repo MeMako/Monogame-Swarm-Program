@@ -5,8 +5,10 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/ball.png</File>
+    <File>C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/MyMenuFont.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

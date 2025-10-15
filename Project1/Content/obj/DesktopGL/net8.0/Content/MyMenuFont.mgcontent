@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/MyMenuFont.spritefont</SourceFile>
+  <SourceTime>2025-06-02T20:42:50+10:00</SourceTime>
+  <DestFile>C:/Users/Kyhan/source/repos/Monogame-Swarm-Program/Project1/Content/bin/DesktopGL/Content/MyMenuFont.xnb</DestFile>
+  <DestTime>2025-10-01T17:44:53.4636931+10:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T20:31:02+10:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T20:31:02+10:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

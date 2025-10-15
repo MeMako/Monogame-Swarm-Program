@@ -25,3 +25,10 @@
 /processorParam:TextureFormat=Color
 /build:ball.png
 
+#begin MyMenuFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:MyMenuFont.spritefont
+

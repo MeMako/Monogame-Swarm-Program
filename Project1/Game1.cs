@@ -8,6 +8,7 @@ namespace Project1
     public class Game1 : Game
     {
         Texture2D ball;
+        SpriteFont font;
 
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
@@ -32,7 +33,7 @@ namespace Project1
             // TODO: Add your initialization logic here
             //_ball = new GameObject(new transform2d(Vector2.Zero, Vector2.Zero, Vector2.Zero, 1f, 0f), new PlayerControls(), "ball");
             ball = Content.Load<Texture2D>("ball");
-          
+            font = Content.Load<SpriteFont>("MyMenuFont");
             base.Initialize();
 
         }
@@ -68,6 +69,9 @@ namespace Project1
             {
                 _spriteBatch.Draw(ball, bot.transform.position, Color.White);
             }
+            string output = "("+flock.flock[0].transform.velocity.X+","+flock.flock[0].transform.velocity.Y+")";
+            _spriteBatch.DrawString(font, output, new Vector2(10, 10), Color.White);
+          
             _spriteBatch.End();
 
             base.Draw(gameTime);
